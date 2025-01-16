@@ -1,12 +1,12 @@
 ## 0) Markdown 파일에 대하여
 
 개발자들이 텍스트와 코드를 작성해 문서화하기 위하여 사용한다.   
-MD 파일 작성 관련 문법은 아래 주소 참조 <br><br>
+MD 파일 작성 관련 문법은 아래 주소 참조. <br><br>
 
 
 [Markdown 홈페이지](https://www.markdownguide.org/basic-syntax/)
 
-[나무위키  Markdown](https://namu.wiki/w/마크다운)
+[나무위키 Markdown](https://namu.wiki/w/마크다운)
 
 ## 1) Git 사용하기 (VS code)
 
@@ -42,7 +42,7 @@ GitHub에 가입 후 git remote origin (remote url) 을 활용해 원격 저장�
 
 - git push origin master : 원격 저장소에 commit 목록을 업로드한다.
     
-    주의할 점  -  commit 목록의 변경된 파일이 원격 저장소와 다르면 error가 나는 것에 유의.
+    주의할 점 - commit 목록의 변경된 파일이 원격 저장소와 다르면 error가 나는 것에 유의.
     
     commit 목록에 변경 사항이 없다면 push도 되지 않는다. (up-to-date)
     
