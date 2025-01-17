@@ -84,3 +84,23 @@
     - Hotfix
         
         Master에서 발생한 버그를 긴급하게 수정해야 할 때 활용한다. 긴급 패치 사항은 Master Branch 또는 이후 Develop Branch에 병합된다.
+
+## 2) 기타 IT 용어
+
+- Chat GPT(Generative Pre-trained Transformer)
+- UI/UX
+- Client / Server
+- API(Application Programming Interface) & API Key
+    
+    두 소프트웨어/시스템이 서로 통신할 수 있게, 특정 규칙에 따라 데이터를 요청하고 응답하는 매커니즘. Json 또는 Xml 파일로 나타낸다.
+    
+    → 해당 API에 접근하기 위하여 데이터베이스를 담당하는 기업에서 Key를 제공한다. **해당 키는 비공개 키이며, 절대로 타인에게 보여주거나 노출해서는 안된다!**
+    
+- 프롬프트 엔지니어링 (feat. GPT OpenAI API)
+    - 페르소나
+    - 명시적 지시
+    - Few-shot
+    - 생각의 사슬
+    - 자기 일관성
+    - 생각의 나무, 사고 구조도
+    - 인터넷 검색 기반 응답
