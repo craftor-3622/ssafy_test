@@ -1,4 +1,3 @@
 # Note
 
-본 repository는 ssafy 실습과 관련된 내용입니다.   
-contents가 수시로 변경될 수 있습니다.
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/wnsjh9110" width="600" height="300"/></a>
